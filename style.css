@@ -1,0 +1,6 @@
+#news img{width: 250px;}
+#news #newsItem{display: flex; margin-top: 30px;
+border: 1px black solid; padding: 25px;border-radius: 25px;}
+#news #newsItem .newsContent{padding: 35px; padding-top: 0px;}
+#news #newsItem a{float: right;}
+#filterArea{display: flex;justify-content: space-between;}
